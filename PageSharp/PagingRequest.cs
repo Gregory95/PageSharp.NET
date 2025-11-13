@@ -1,4 +1,4 @@
-﻿namespace PagingPackage
+﻿namespace PageSharp
 {
     /// <summary>
     /// Represents a set of parameters used to control paging, filtering, and sorting of query results.
